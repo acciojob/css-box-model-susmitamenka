@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.a{
+	height:300px;
+	width:400px;
+	/* background-color:lightblue; */
+	border:1px solid black;
+	/* padding:inside 50px; */
+	/* margin:20px space-around; */
+}
+.b{ 
+	 width:300px;
+	background-color:lightblue;
+	border:15px solid blue;
+	padding:inside 50px;
+	margin:20px;
+	gap:10px;
+	/* text-align:center */
+	/* align-items:center; */
+	/* align-content:center; */
+	/* justify-content:center; */
+	/* justify-items:center; */
+	 
+ }
