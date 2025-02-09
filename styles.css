@@ -1,24 +1,20 @@
 
 /* Your CSS Code here. */
 .a{
-	/* height:300px; */
-	width:300px;
-	/* background-color:lightblue; */
-	border:1px solid black;
-	/* padding:inside 50px; */
-	/* margin:20px space-around; */
+width:400px;
+border:1px solid black;
+ margin:20px space-around; 
 }
 .b{ 
-	 width:200px;
-	background-color:lightblue;
+	 width:300px;
+	/* background-color:lightblue; */
 	border:15px solid blue;
-	padding:inside 50px;
+	/* padding:inside 50px; */
 	margin:20px;
 	gap:10px;
-	/* text-align:center */
-	/* align-items:center; */
-	/* align-content:center; */
-	/* justify-content:center; */
-	/* justify-items:center; */
-	 
- }
+	}
+.c{
+	width:300px;
+	background-color:lightblue;
+	padding:inside 50px;
+}
