@@ -1,20 +1,14 @@
 
 /* Your CSS Code here. */
-.a{
-width:400px;
-border:1px solid black;
- margin:20px space-around; 
-}
-.b{ 
+
+div{ 
 	 width:300px;
-	/* background-color:lightblue; */
+background-color:lightblue; 
 	border:15px solid blue;
+	padding:50px;
+	text-align:center;
 	/* padding:inside 50px; */
 	margin:20px;
-	gap:10px;
+
 	}
-.c{
-	width:300px;
-	background-color:lightblue;
-	padding:inside 50px;
-}
+
